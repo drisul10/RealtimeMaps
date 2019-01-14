@@ -1,0 +1,21 @@
+{
+  "name": "kotlin_socketio_map",
+  "version": "1.0.0",
+  "description": "Learning Kotlin, Socket.io, Map",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "pusher": "^2.2.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "kotlin",
+    "socket.io",
+    "map"
+  ],
+  "author": "Andrisoel",
+  "license": "ISC"
+}

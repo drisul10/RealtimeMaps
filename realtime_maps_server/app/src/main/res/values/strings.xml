@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KSM</string>
+    <string name="bt_str_simulate">Simulate</string>
+    <string name="google_maps_key">AIzaSyCyMOWKVukxQvutlZ3TOtf-6o-5SAVBPxY</string>
+</resources>
